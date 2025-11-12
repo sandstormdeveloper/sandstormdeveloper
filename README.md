@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Sandstorm!
-Indie game developer and game design student :)
+I'm an ndie game developer and game design student :)
 
 
 ## 🌐 Socials
