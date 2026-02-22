@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Sandstorm!
-I`m an indie game developer :)
+Indie game developer :)
 
 
 ## 🌐 Socials
